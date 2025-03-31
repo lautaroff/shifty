@@ -36,6 +36,11 @@ cd <nombre_del_repositorio>
 ## Configuración del Backend
 
 ### 1. Crear y Activar el Entorno Virtual
+Accede a la carpeta backend 
+```bash
+cd backend
+```
+
 Crea un entorno virtual para aislar las dependencias:
 
 ```bash
