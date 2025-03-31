@@ -1,0 +1,18 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+Flask-Migrate
+
+# Base de datos (Turso/LibSQL)
+libsql-client
+
+# Envío de correos (Web3form se usa en frontend, pero por si necesitas SMTP)
+Flask-Mail
+
+# Seguridad
+Flask-Bcrypt
+Flask-JWT-Extended
+
+# Otras utilidades
+python-dotenv
+requests
