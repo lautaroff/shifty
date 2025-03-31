@@ -145,7 +145,7 @@ Si deseas contribuir:
    ```bash
    git push origin feature/nueva-caracteristica
    ```
-5. Crea un Pull Request.
+5. Crea un Pull Request a la branch develop.
 
 ---
 
